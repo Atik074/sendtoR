@@ -1,0 +1,20 @@
+.nav-container{
+    background: linear-gradient(90deg, rgba(126, 144, 254, 0.05) 0%, rgba(152, 115, 255, 0.05) 100%);
+    padding:0px 64px;
+   
+}
+.flex{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.nav-container h2{
+    color: #1A1919;
+    font-size: 42px;
+    font-weight: 800;
+}
+.nav-item  a{
+    margin: 0px 30px;
+   
+}
+
